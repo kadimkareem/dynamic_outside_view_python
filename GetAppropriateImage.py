@@ -152,6 +152,7 @@ def change_background_now():
     file_path=os.path.abspath(appropreate_image)
     ctypes.windll.user32.SystemParametersInfoW(20, 0, file_path , 0)
     # self.add_to_db()
+    print('wait for download and set image ...')
     print('your background have been set')
 if __name__ == '__main__':
     change_background_now()
