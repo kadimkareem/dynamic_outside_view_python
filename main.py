@@ -1,9 +1,9 @@
 '''
+todo
 get the prorteate image based on the weather state and dy time part
 get good api website to provide images
 send the device status (weather , day time pat)
-get the appropreate image
-resolution
+get the appropriate image resolution
 send the image to the man
 check if the photo has the same screen resolution if not choose another one
 '''
@@ -25,6 +25,7 @@ def getDeviceCity():
     return  the_city
 
 city=getDeviceCity()
+#get device screen size
 def get_screen_reslution():
     ctypes.windll.user32.SetProcessDPIAware()
     user32 = ctypes.windll.user32
