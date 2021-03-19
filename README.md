@@ -5,6 +5,6 @@ depending on your weather and day time status 🤗
 the scrept will get your screen size ,your location, the current weather state in your area , the day time 
 then brings appropriate image for you from `unsplash.com` website , the script collects group of images related to your information then chooses list of most liked images and choose one of them randomly
 
+your need some api keys
 * Open weather api key [https://openweathermap.org/appid] for weather status
 * unsplash api key [https://unsplash.com/developers] for backgoudn
-* [https://get.geojs.io/v1/ip/geo.json] gets your location
