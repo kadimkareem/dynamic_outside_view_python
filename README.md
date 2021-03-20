@@ -8,3 +8,9 @@ then brings appropriate image for you from `unsplash.com` website , the script c
 your need some api keys
 * Open weather api key [https://openweathermap.org/appid] for weather status
 * unsplash api key [https://unsplash.com/developers] for backgoudn
+
+#code run 
+* active the virtual env 
+for windows `$./DynamicOutsideView_env\Scripts\active` ; for linux `$source DynamicOutsideView_env/Scripts/active
+run main script `$python main.py`
+
