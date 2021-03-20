@@ -11,6 +11,8 @@ your need some api keys
 
 #code run 
 * active the virtual env 
-for windows `$.\DynamicOutsideView_env\Scripts\activate` ; for linux `$source DynamicOutsideView_env/Scripts/active
-run main script `$python main.py`
+for windows `$.\DynamicOutsideView_env\Scripts\activate` ; for linux `$source DynamicOutsideView_env/Scripts/active`
+
+*run main script
+$python main.py`
 
