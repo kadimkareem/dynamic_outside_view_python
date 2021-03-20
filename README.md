@@ -13,7 +13,7 @@ your need some api keys
 * active the virtual env 
 for windows `$.\DynamicOutsideView_env\Scripts\activate` 
 for linux `$source DynamicOutsideView_env/Scripts/active`
-
+* insall requirements `pip install -r requirements.txt `
 *run main script
 `$python main.py`
 
