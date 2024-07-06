@@ -1,9 +1,9 @@
-from uitl.apiProcess import UnsplashImageApiProcess
+from util.api_keys import UNSPLASH_API_KEY
 class ImageProvider:
     def __init__(self, day_time_part, weather_status,url):
         self.day_time_part = day_time_part
         self.weather_status = weather_status
-        self.unsplash_api = UnsplashImageApiProcess()
+        self.unsplash_api = UNSPLASH_API_KEY
 
     def get_image_urls(self):
         return self.unsplash_api.get_images_urls()
