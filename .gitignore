@@ -1,16 +1,9 @@
-<<<<<<< HEAD
 ./vscode/
 /build/
 database/
 dist/
-=======
-#logs/
-./database/
-test.py
-todo.txt
-nexrr.py
->>>>>>> origin/master
 api_keys.py
 singleimage.jpg
 ./image_process/singleimgae.jpg
-api_keys.py
+.env
+.idea
