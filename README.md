@@ -16,4 +16,4 @@ for linux `$source DynamicOutsideView_env/Scripts/active`
 * insall requirements `pip install -r requirements.txt `
 *run main script
 `$python main.py`
-
+*the script is very old and the local version is missing ,so you have to be carefull when implement it
